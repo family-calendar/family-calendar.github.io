@@ -43,6 +43,12 @@ It wasn't until 2016 this Web Component API became available to us mortal develo
 
 # AI prompts analyzing the code
 
+## copilot-instructions.md
+
+[example instructions](https://raw.githubusercontent.com/OysteinAmundsen/toolbox/5374967688ed992ddaccbc1b8a5ffcd6f5309fa9/.github/copilot-instructions.md)
+
+## Prompts
+
 * How many createElement function calls append DOM Nodes in the 3rd attribute array
 * Why does the <dialog> close with a click but not opens on the click
 > <dialog> was opened but in same event cycle closed again by global onclick handler added evt.stopPropagatian
